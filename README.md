@@ -1,6 +1,6 @@
 # gsheets
 
-A submission-ready Google Sheets skill focused on formulas, Apps Script, debugging, and Sheets-native analytical workflows.
+Google Sheets skill focused on formulas, Apps Script, debugging, and Sheets-native analytical workflows.
 
 ## What this repo covers
 
@@ -23,7 +23,7 @@ A submission-ready Google Sheets skill focused on formulas, Apps Script, debuggi
 This skill should trigger when Google Sheets is the target platform.
 It should not replace an Excel/xlsx workflow when the required deliverable is an `.xlsx` file.
 
-## What makes this stronger than a basic draft
+## What makes this stronger
 
 - Clear response modes
 - Concrete formula patterns
