@@ -11,7 +11,7 @@ Google Sheets skill focused on formulas, Apps Script, debugging, and Sheets-nati
 - Dashboard and model layout guidance for Google Sheets
 - Test prompts and expected behaviors for evaluation
 
-## Recommended repo layout
+## Repo layout
 
 - `SKILL.md`: main trigger and operating instructions
 - `examples/`: worked examples and response patterns
